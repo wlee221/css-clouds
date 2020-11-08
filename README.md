@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# css-clouds
+Drawing some clouds with css. This is adapted from css-tricks [post](https://css-tricks.com/drawing-realistic-clouds-with-svg-and-css/); check it out!
 
 ## Available Scripts
 
